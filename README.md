@@ -1,4 +1,6 @@
 # Node_by_mahi
-Backed-journey
-1.Reading ,writing the txt file from node js 
-2.Opening the  gui apllications from the node js like chrome engine vscode 
+
+🚀 **Backed-journey**
+
+1. 📄 Reading and writing `.txt` files using Node.js  
+2. 🖥️ Opening GUI applications from Node.js (e.g., Chrome, VS Code)
